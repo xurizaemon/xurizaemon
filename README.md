@@ -7,9 +7,9 @@ I'm a software developer and contributor who lives in Ōtepoti (Dunedin), Aotear
 ## Recent posts
 
 <!-- BLOG-POST-LIST:START -->
+- [pa11y in Lando](https://chris.bur.gs/pa11y-in-lando/)
 - [Lighthousing](https://chris.bur.gs/lighthouse/)
 - [PatchWatch progress report](https://chris.bur.gs/patchwatch-progress/)
 - [Lando + Metabase](https://chris.bur.gs/lando-metabase/)
 - [Fixing the Element notification sound](https://chris.bur.gs/custom-element-notification-sounds/)
-- [What patches are we running?](https://chris.bur.gs/composer-drupal-patches-report/)
 <!-- BLOG-POST-LIST:END -->
