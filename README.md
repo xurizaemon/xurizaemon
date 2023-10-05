@@ -10,6 +10,6 @@ I'm a software developer and contributor who lives in Ōtepoti (Dunedin), Aotear
 - [Debugging a Sieve detail that was confounding me](https://chris.bur.gs/sieve-order-fileinto/)
 - [pa11y in Lando](https://chris.bur.gs/pa11y-in-lando/)
 - [Lighthousing](https://chris.bur.gs/lighthouse/)
+- [XDebug, Lando and a CLI service](https://chris.bur.gs/lando-phpstorm-xdebug/)
 - [PatchWatch progress report](https://chris.bur.gs/patchwatch-progress/)
-- [Lando + Metabase](https://chris.bur.gs/lando-metabase/)
 <!-- BLOG-POST-LIST:END -->
