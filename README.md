@@ -7,9 +7,9 @@ I'm a software developer and contributor who lives in Ōtepoti (Dunedin), Aotear
 ## Recent posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Convert MR patches to local patches](https://chris.bur.gs/mrs-to-patches/)
 - [Debugging a Sieve detail that was confounding me](https://chris.bur.gs/sieve-order-fileinto/)
 - [pa11y in Lando](https://chris.bur.gs/pa11y-in-lando/)
 - [Lighthousing](https://chris.bur.gs/lighthouse/)
 - [XDebug, Lando and a CLI service](https://chris.bur.gs/lando-phpstorm-xdebug/)
-- [PatchWatch progress report](https://chris.bur.gs/patchwatch-progress/)
 <!-- BLOG-POST-LIST:END -->
