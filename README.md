@@ -8,8 +8,8 @@ I'm a software developer and contributor who lives in Ōtepoti (Dunedin), Aotear
 
 <!-- BLOG-POST-LIST:START -->
 - [SensorWatch days of the week in reo Māori](https://chris.bur.gs/sensor-watch-r%C4%81-m%C4%81ori/)
+- [Lando + Memcache + Memcacheadmin](https://chris.bur.gs/lando-memcacheadmin/)
+- [Lando v4 preview](https://chris.bur.gs/lando-v4-preview/)
 - [Convert MR patches to local patches](https://chris.bur.gs/mrs-to-patches/)
-- [Debugging a Sieve detail that was confounding me](https://chris.bur.gs/lando-v4-preview/)
 - [Debugging a Sieve detail that was confounding me](https://chris.bur.gs/sieve-order-fileinto/)
-- [pa11y in Lando](https://chris.bur.gs/pa11y-in-lando/)
 <!-- BLOG-POST-LIST:END -->
