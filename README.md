@@ -7,9 +7,9 @@ I'm a software developer and contributor who lives in Ōtepoti (Dunedin), Aotear
 ## Recent posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Automating commit messages better](https://chris.bur.gs/automated-commit-message/)
 - [GlitchTip filtering by log levels](https://chris.bur.gs/glitchtip-levels/)
 - [Eleventy 🤝 Immich](https://chris.bur.gs/eleventy-immich/)
 - [Yakfilling dates](https://chris.bur.gs/yakfilling-markdown-day-property/)
 - [Gull feet](https://chris.bur.gs/gull-feet/)
-- [Send shrugs 🤷](https://chris.bur.gs/shruggies/)
 <!-- BLOG-POST-LIST:END -->
