@@ -7,9 +7,9 @@ I'm a software developer and contributor who lives in Ōtepoti (Dunedin), Aotear
 ## Recent posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Drupal South + Potato Week](https://chris.bur.gs/drupal-south-2024/)
 - [Let&#39;s get cooking: Drupal Recipes](https://chris.bur.gs/drupal-recipes/)
 - [Unreliable narrator](https://chris.bur.gs/unreliable-narrator/)
 - [Automating commit messages better](https://chris.bur.gs/automated-commit-message/)
 - [GlitchTip filtering by log levels](https://chris.bur.gs/glitchtip-levels/)
-- [Eleventy 🤝 Immich](https://chris.bur.gs/eleventy-immich/)
 <!-- BLOG-POST-LIST:END -->
