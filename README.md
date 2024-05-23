@@ -7,9 +7,9 @@ I'm a software developer and contributor who lives in Ōtepoti (Dunedin), Aotear
 ## Recent posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Extending your access - JWT validation failure and auth bypass](https://chris.bur.gs/extended-access-jwt-bypass/)
+- [Preparing a video from OBS to MP4](https://chris.bur.gs/video-for-bug-report/)
 - [Drupal South + Potato Week](https://chris.bur.gs/drupal-south-2024/)
 - [Let&#39;s get cooking: Drupal Recipes](https://chris.bur.gs/drupal-recipes/)
 - [Unreliable narrator](https://chris.bur.gs/unreliable-narrator/)
-- [Automating commit messages better](https://chris.bur.gs/automated-commit-message/)
-- [GlitchTip filtering by log levels](https://chris.bur.gs/glitchtip-levels/)
 <!-- BLOG-POST-LIST:END -->
