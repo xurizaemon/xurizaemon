@@ -9,7 +9,7 @@ I'm a software developer and contributor who lives in Ōtepoti (Dunedin), Aotear
 <!-- BLOG-POST-LIST:START -->
 - [Oversharing with NPM](https://chris.bur.gs/npm-overshare/)
 - [Newcombe 35 - a custom theme for Eleventy](https://chris.bur.gs/newcombe-35/)
+- [Highly legible fonts](https://chris.bur.gs/highly-legible-fonts/)
 - [Extending your access - JWT validation failure and auth bypass](https://chris.bur.gs/extended-access-jwt-bypass/)
 - [Preparing a video from OBS to MP4](https://chris.bur.gs/video-for-bug-report/)
-- [Drupal South + Potato Week](https://chris.bur.gs/drupal-south-2024/)
 <!-- BLOG-POST-LIST:END -->
