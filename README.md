@@ -7,9 +7,9 @@ I'm a software developer and contributor who lives in Ōtepoti (Dunedin), Aotear
 ## Recent posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lighthouse browser crashes](https://chris.bur.gs/lighthouse-browser-crashes/)
 - [Visidata, a CLI powertool for CSV](https://chris.bur.gs/visidata-hello/)
 - [Oversharing with NPM](https://chris.bur.gs/npm-overshare/)
 - [Newcombe 35 - a custom theme for Eleventy](https://chris.bur.gs/newcombe-35/)
 - [Highly legible fonts](https://chris.bur.gs/highly-legible-fonts/)
-- [Extending your access - JWT validation failure and auth bypass](https://chris.bur.gs/extended-access-jwt-bypass/)
 <!-- BLOG-POST-LIST:END -->
