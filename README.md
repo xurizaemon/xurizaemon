@@ -7,9 +7,9 @@ I'm a software developer and contributor who lives in Ōtepoti (Dunedin), Aotear
 ## Recent posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Report changes to Composer dependencies from a Gitlab CI job](https://chris.bur.gs/composer-changes-from-ci/)
+- [Check Chrome connectivity in Gitlab CI](https://chris.bur.gs/chrome-info-gitlab-ci/)
 - [Lighthouse browser crashes](https://chris.bur.gs/lighthouse-browser-crashes/)
 - [Visidata, a CLI powertool for CSV](https://chris.bur.gs/visidata-hello/)
 - [Oversharing with NPM](https://chris.bur.gs/npm-overshare/)
-- [Newcombe 35 - a custom theme for Eleventy](https://chris.bur.gs/newcombe-35/)
-- [Highly legible fonts](https://chris.bur.gs/highly-legible-fonts/)
 <!-- BLOG-POST-LIST:END -->
