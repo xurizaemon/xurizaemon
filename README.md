@@ -7,7 +7,7 @@ I'm a software developer and contributor who lives in Ōtepoti (Dunedin), Aotear
 ## Recent posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Sunset over Wakari, a sketch/print in JS](https://chris.bur.gs/sunset-sketch/)
+- [Sunset over Wakari](https://chris.bur.gs/sunset-over-wakari/)
 - [Reporting from Composer to Dependency Track from Gitlab CI](https://chris.bur.gs/dependency-track-gitlab-ci/)
 - [Showing Composer dependency changes on MRs from a CI job](https://chris.bur.gs/composer-changes-from-ci/)
 - [Check Chrome connectivity in Gitlab CI](https://chris.bur.gs/chrome-info-gitlab-ci/)
