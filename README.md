@@ -7,9 +7,9 @@ I'm a software developer and contributor who lives in Ōtepoti (Dunedin), Aotear
 ## Recent posts
 
 <!-- BLOG-POST-LIST:START -->
+- [More noise](https://chris.bur.gs/strudel-synth/)
 - [DCC &amp; ORC candidate slogans, 2025](https://chris.bur.gs/dcc-orc-candidate-slogans/)
 - [Stupid small indie web](https://chris.bur.gs/stupid-smallweb/)
 - [Mogu Mogu](https://chris.bur.gs/mogu-mogu/)
 - [Strudel, a live coding music REPL](https://chris.bur.gs/strudel/)
-- [Disabling data reporting in Lando](https://chris.bur.gs/lando-disable-data-reporting/)
 <!-- BLOG-POST-LIST:END -->
