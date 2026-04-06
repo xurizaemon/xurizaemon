@@ -7,9 +7,9 @@ I'm a software developer and contributor who lives in Ōtepoti (Dunedin), Aotear
 ## Recent posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Aureuo Marker 24 palette](https://chris.bur.gs/aureuo-marker-24-palette/)
 - [So, you should know about: SearXNG](https://chris.bur.gs/so-you-should-know-about-searxng/)
 - [Importing image directories to Eleventy](https://chris.bur.gs/importing-image-directories-to-eleventy/)
 - [Gitlab CI](https://chris.bur.gs/gitlab-ci/)
 - [2015 Corolla Fielder Hybrid G Aerotourer](https://chris.bur.gs/fielder/)
-- [More noise](https://chris.bur.gs/more-noise/)
 <!-- BLOG-POST-LIST:END -->
