@@ -10,6 +10,6 @@ I'm a software developer and contributor who lives in Ōtepoti (Dunedin), Aotear
 - [Mesh in Ōtepoti](https://chris.bur.gs/mesh-in-otepoti/)
 - [Aureuo Marker 24 palette](https://chris.bur.gs/aureuo-marker-24-palette/)
 - [So, you should know about: SearXNG](https://chris.bur.gs/so-you-should-know-about-searxng/)
-- [Importing image directories to Eleventy](https://chris.bur.gs/importing-image-directories-to-eleventy/)
-- [Gitlab CI](https://chris.bur.gs/gitlab-ci/)
+- [Sandymount track](https://chris.bur.gs/sandymount-track/)
+- [Gitlab CI Local](https://chris.bur.gs/gitlab-ci-local/)
 <!-- BLOG-POST-LIST:END -->
