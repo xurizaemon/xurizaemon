@@ -7,9 +7,9 @@ I'm a software developer and contributor who lives in Ōtepoti (Dunedin), Aotear
 ## Recent posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A gadget for clutter-filled homes](https://chris.bur.gs/a-gadget-for-clutter-filled-homes/)
 - [Mesh in Ōtepoti](https://chris.bur.gs/mesh-in-otepoti/)
 - [Aureuo Marker 24 palette](https://chris.bur.gs/aureuo-marker-24-palette/)
 - [So, you should know about: SearXNG](https://chris.bur.gs/so-you-should-know-about-searxng/)
 - [Sandymount track](https://chris.bur.gs/sandymount-track/)
-- [Gitlab CI Local](https://chris.bur.gs/gitlab-ci-local/)
 <!-- BLOG-POST-LIST:END -->
